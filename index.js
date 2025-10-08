@@ -54,6 +54,7 @@ const allowedOrigins = [
 	"https://king-eta-cyan.vercel.app",
 	"https://kingrewardsroobet.vercel.app",
 	"https://mister-tee.vercel.app/Leaderboards",
+	"https://louiskhz.vercel.app"
 ];
 
 app.use(
